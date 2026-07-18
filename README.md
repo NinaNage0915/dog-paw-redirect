@@ -1,5 +1,5 @@
 [index.html](https://github.com/user-attachments/files/30098909/index.html)
-# dog-paw-redirect<!DOCTYPE html>
+# PSA Dog Paw Safety <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
