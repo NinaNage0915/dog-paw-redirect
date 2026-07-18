@@ -1,12 +1,8 @@
-[index.html](https://github.com/user-attachments/files/30098909/index.html)
-dog-paw-redirect<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <!-- Redirect after 10 seconds -->
-    <meta http-equiv="refresh" content="10;url=https://www.akc.org/expert-advice/health/dog-paws-hot-pavement/">
 
     <title>Protect Your Dog's Paws</title>
 
@@ -62,10 +58,6 @@ dog-paw-redirect<!DOCTYPE html>
 The pavement can be much hotter than the air temperature, causing painful burns and blisters in just minutes. 
 In fact, asphalt and sidewalks can be 30°-60° hotter than the air. 
 During warm weather, walk your dog during cooler parts of the day and test the pavement with your hand before heading out.
-</p>
-
-<p>
-You will be redirected to the American Kennel Club's guide on protecting dogs from hot pavement in <strong> a few seconds</strong>.
 </p>
 
 <p>
