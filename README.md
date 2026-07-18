@@ -1,5 +1,5 @@
 [index.html](https://github.com/user-attachments/files/30098909/index.html)
-# dog-paw-redirect<!DOCTYPE html>
+dog-paw-redirect<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -65,7 +65,7 @@ During warm weather, walk your dog during cooler parts of the day and test the p
 </p>
 
 <p>
-You will be redirected to the American Kennel Club's guide on protecting dogs from hot pavement in <strong>5 seconds</strong>.
+You will be redirected to the American Kennel Club's guide on protecting dogs from hot pavement in <strong> a few seconds</strong>.
 </p>
 
 <p>
