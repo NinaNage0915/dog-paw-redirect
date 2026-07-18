@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Redirect after 10 seconds -->
-    <meta http-equiv="refresh" content="10;url=https://www.akc.org/expert-advice/health/dog-paws-hot-pavement/">
+    <!-- Redirect after 5 seconds -->
+    <meta http-equiv="refresh" content="5;url=https://www.akc.org/expert-advice/health/dog-paws-hot-pavement/">
 
     <title>Protect Your Dog's Paws</title>
 
