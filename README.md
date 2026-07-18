@@ -70,7 +70,6 @@ You will be redirected to the American Kennel Club's guide on protecting dogs fr
 
 <p>
 <a href="https://www.akc.org/expert-advice/health/dog-paws-hot-pavement/">
-Read the AKC article now
 </a>
 </p>
 
