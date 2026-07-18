@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Redirect after 10 seconds -->
+    <!-- Redirect after 5 seconds -->
     <meta http-equiv="refresh" content="10;url=https://www.akc.org/expert-advice/health/dog-paws-hot-pavement/">
 
     <title>Protect Your Dog's Paws</title>
